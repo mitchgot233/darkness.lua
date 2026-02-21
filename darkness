@@ -1693,4 +1693,5 @@ v504:AddLabel("Had to remove becuase the script was not executing -- dark").Text
 
 v504:AddLabel("")
 
+
 v504:AddLabel("Script Made by darkness -- Discord: mitchgot123").TextSize = 20
